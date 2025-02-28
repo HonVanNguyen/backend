@@ -1,0 +1,7 @@
+{
+  "hello": "Hello",
+  "notFound": "not found",
+  "alreadyExists": "already exists",
+  "invalid": "invalid",
+  "cannotDelete": "cannot delete"
+}

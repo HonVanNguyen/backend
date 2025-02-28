@@ -1,0 +1,7 @@
+{
+  "hello": "xin chào",
+  "notFound": "không tìm thấy",
+  "alreadyExists": "đã tồn tại",
+  "invalid": "không hợp lệ",
+  "cannotDelete": "không thể xoá"
+}

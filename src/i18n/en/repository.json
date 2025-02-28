@@ -1,0 +1,18 @@
+{
+  "admin": "admin",
+  "customer": "customer",
+  "user": "user",
+  "groupPolicy": "groupPolicy",
+  "groupToPolicy": "groupToPolicy",
+  "policy": "policy",
+  "userToGroupPolicy": "userToGroupPolicy",
+  "systemConfig": "systemConfig",
+  "customField": "customField",
+  "file": "file",
+  "news": "news",
+  "newDetail": "newDetail",
+  "newsToFile": "newsToFile",
+  "newsToSubject": "newsToSubject",
+  "subject": "subject",
+  "subjectDetail": "subjectDetail"
+}

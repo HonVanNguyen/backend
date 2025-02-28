@@ -1,0 +1,8 @@
+{
+  "internalServerError": "Internal Server Error",
+  "notFound": "Not Found",
+  "badRequest": "Bad Request",
+  "unauthorized": "Unauthorized",
+  "forbidden": "Forbidden",
+  "methodNotAllowed": "Method Not Allowed"
+}
